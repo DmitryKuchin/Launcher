@@ -1,7 +1,7 @@
 {
     "name": "aurora-launcher-app",
     "version": "0.0.4",
-    "description": "Launcher for Minecraft",
+    "description": "Leeroy's Machinarium",
     "main": "build/main/index.js",
     "private": true,
     "scripts": {
@@ -88,13 +88,13 @@
         }
     },
     "build": {
-        "appId": "ru.aurora.launcher",
-        "productName": "Aurora Launcher",
+        "appId": "ru.kuchin.launcher",
+        "productName": "Leeroy's Machinarium",
         "publish": [
             {
                 "provider": "github",
                 "releaseType": "release",
-                "owner": "AuroraTeam",
+                "owner": "DmitryKuchin",
                 "repo": "Launcher"
             }
         ],
