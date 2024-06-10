@@ -7,7 +7,7 @@ export const window = {
     resizable: false,
     maximizable: false,
     fullscreenable: false,
-    title: 'Aurora Launcher',
+    title: 'Leeroy\'s Machinarium',
 };
 
 export const api = {
